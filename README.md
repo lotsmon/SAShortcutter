@@ -1,7 +1,7 @@
 ## SAShortcutter
 # EN
    To use, create a shortcut along the path `%SASLNK% <login> <password>`
-## Be sure to run the `Updater.vbs` by putting it next to the `Starter.vbs`
+### Be sure to run the `Updater.vbs` by putting it next to the `Starter.vbs`
 # 
 # RU
    Для использования создайте ярлык по пути `%SASLNK% <login> <password>`
