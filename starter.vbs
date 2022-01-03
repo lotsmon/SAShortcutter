@@ -1,7 +1,7 @@
 Dim Login, Password
 Dim oShell : Set oShell = CreateObject("WScript.Shell")
 
-Dim Path : Path = "E:\Program Files\Steam\steam.exe"
+Dim Path : Path = "C:\Program Files\Steam\steam.exe"
 
 Function Main()
     if WScript.Arguments.Count = 2 then
